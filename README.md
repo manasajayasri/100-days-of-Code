@@ -1,2 +1,4 @@
 # 100-days-of-Code
-Learning C Language from scratch using the book, "Programming for Problem solving by Behrouz A. Forouzan and Richard F. Gilberg". 
+Learning C Language from scratch using the book, "Programming for Problem solving by Behrouz A. Forouzan and Richard F. Gilberg"
+
+Also, Plling GFG Practice problmes as I go. Lang: Java
